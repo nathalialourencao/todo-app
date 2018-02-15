@@ -32,7 +32,7 @@ const TodoList = props => {
             </tr>
             </thead>
             <tbody>
-            {renderRows()}
+                {renderRows()}
             </tbody>
         </table>
     )
